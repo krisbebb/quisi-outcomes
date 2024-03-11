@@ -1,0 +1,40 @@
+:root {
+  font-family: "Roboto", system-ui, sans-serif;
+}
+
+.main-heading {
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+}
+
+.rating-container {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.nav-buttons-container {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.text-field-section {
+  display: flex;
+  gap: 1rem;
+}
+
+.text-field-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+  flex: 1;
+  border: 1px solid #cac4d0;
+  border-radius: 8px;
+  padding: 1rem;
+}
