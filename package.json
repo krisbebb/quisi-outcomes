@@ -9,7 +9,7 @@
     "rollup": "^4.12.1"
   },
   "scripts": {
-    "start": "live-server --port=8080 --entry-file=/dist/index.html",
+    "start": "live-server --port=8080 --host=localhost --open=/public",
     "build": "rollup -c"
   },
   "author": "inquisitive",

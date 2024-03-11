@@ -8,14 +8,14 @@ A basic frontend for the outcomes project using material design.
 npm install
 ```
 
-## Usage
-
-```bash
-npm start
-```
-
 ## Build
 
 ```bash
 npm run build
+```
+
+## Start the local server
+
+```bash
+npm start
 ```
